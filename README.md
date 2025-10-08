@@ -16,7 +16,7 @@ This MCP server provides 5 tools for interacting with Harvard's art collection:
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AlexLin1234/harvard-art-museums-mcp-server
    cd harvard-art-museums
    ```
 
